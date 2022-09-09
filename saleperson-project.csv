@@ -1,0 +1,297 @@
+﻿EmployeeKey,SalesTerritoryKey,FirstName,LastName,Sales person name,Position,HireDate,BirthDate,Age,MaritalStatus,Gender,BaseRate,SickLeaveHours,DepartmentName,StartDate,EndDate
+1,11,Guy,Gilbert,Guy Gilbert,Production Technician - WC60,2006-01-28,1981-11-12,41,married,Male,12.45,30,Production,2014-01-28,NULL
+2,11,Kevin,Brown,Kevin Brown,Marketing Assistant,2006-08-26,1986-12-01,36,single,Male,13.4615,41,Marketing,2014-08-26,NULL
+3,11,Roberto,Tamburello,Roberto Tamburello,Engineering Manager,2007-06-11,1974-06-12,48,married,Male,43.2692,21,Engineering,2015-06-11,NULL
+4,11,Rob,Walters,Rob Walters,Senior Tool Designer,2007-07-05,1974-07-23,48,single,Male,29.8462,80,Tool Design,2015-07-05,2017-12-28
+5,11,Rob,Walters,Rob Walters,Senior Tool Designer,2007-07-05,1974-07-23,48,single,Male,29.8462,80,Tool Design,2017-12-28,NULL
+6,11,Thierry,D'Hers,Thierry D'Hers,Tool Designer,2007-07-11,1959-02-26,63,married,Male,25.00,24,Tool Design,2015-07-11,NULL
+7,11,David,Bradley,David Bradley,Marketing Manager,2007-07-20,1974-10-17,48,single,Male,37.50,40,Marketing,2015-07-20,2017-02-11
+8,11,David,Bradley,David Bradley,Marketing Manager,2007-07-20,1974-10-17,48,single,Male,37.50,40,Marketing,2017-02-12,NULL
+9,11,JoLynn,Dobney,JoLynn Dobney,Production Supervisor - WC60,2007-07-26,1955-08-16,67,single,Female,25.00,61,Production,2015-07-26,NULL
+10,11,Ruth,Ellerbrock,Ruth Ellerbrock,Production Technician - WC10,2007-08-06,1956-01-03,66,married,Female,13.45,61,Production,2015-08-06,NULL
+11,11,Gail,Erickson,Gail Erickson,Design Engineer,2007-08-06,1952-04-27,70,married,Female,32.6923,22,Engineering,2015-08-06,NULL
+12,11,Barry,Johnson,Barry Johnson,Production Technician - WC10,2007-08-07,1955-10-25,67,single,Male,13.45,64,Production,2015-08-07,NULL
+13,11,Jossef,Goldberg,Jossef Goldberg,Design Engineer,2007-08-24,1958-10-09,64,married,Male,32.6923,23,Engineering,2015-08-24,NULL
+14,11,Terri,Duffy,Terri Duffy,Vice President of Engineering,2007-08-31,1971-03-01,51,single,Female,63.4615,20,Engineering,2015-08-31,NULL
+15,11,Sidney,Higa,Sidney Higa,Production Technician - WC10,2007-09-02,1956-03-30,66,married,Male,13.45,62,Production,2015-09-02,NULL
+16,11,Taylor,Maxwell,Taylor Maxwell,Production Supervisor - WC50,2007-09-08,1955-10-31,67,married,Male,25.00,59,Production,2015-09-08,NULL
+17,11,Jeffrey,Ford,Jeffrey Ford,Production Technician - WC10,2007-09-20,1956-02-09,66,single,Male,13.45,62,Production,2015-09-20,NULL
+18,11,Jo,Brown,Jo Brown,Production Supervisor - WC60,2007-09-27,1956-05-08,66,single,Female,25.00,60,Production,2015-09-27,NULL
+19,11,Doris,Hartwig,Doris Hartwig,Production Technician - WC10,2007-10-09,1955-11-03,67,married,Female,13.45,63,Production,2015-10-09,NULL
+20,11,John,Campbell,John Campbell,Production Supervisor - WC60,2007-10-16,1956-03-07,66,married,Male,25.00,60,Production,2015-10-16,NULL
+21,11,Diane,Glimp,Diane Glimp,Production Technician - WC10,2007-10-27,1955-10-28,67,married,Female,13.45,63,Production,2015-10-27,NULL
+22,11,Steven,Selikoff,Steven Selikoff,Production Technician - WC30,2008-07-01,1976-12-12,46,married,Male,9.50,40,Production,2016-07-01,NULL
+23,11,Peter,Krebs,Peter Krebs,Production Control Manager,2008-07-01,1982-06-03,40,married,Male,24.5192,41,Production Control,2016-07-01,NULL
+24,11,Stuart,Munson,Stuart Munson,Production Technician - WC45,2008-07-02,1962-04-13,60,single,Male,10.00,62,Production,2016-07-02,NULL
+25,11,Greg,Alderson,Greg Alderson,Production Technician - WC45,2008-07-02,1975-11-15,47,single,Male,10.00,62,Production,2016-07-02,NULL
+26,11,David,Johnson,David Johnson,Production Technician - WC30,2008-07-02,1979-06-02,43,single,Male,9.50,32,Production,2016-07-02,NULL
+27,11,Zheng,Mu,Zheng Mu,Production Supervisor - WC10,2008-07-03,1983-05-26,39,single,Male,25.00,53,Production,2016-07-03,NULL
+28,11,Ivo,Salmre,Ivo Salmre,Production Technician - WC20,2008-07-04,1981-08-03,41,married,Male,14.00,24,Production,2016-07-04,NULL
+29,11,Paul,Komosinski,Paul Komosinski,Production Technician - WC40,2008-07-04,1980-06-13,42,single,Male,15.00,54,Production,2016-07-04,NULL
+30,11,Ashvini,Sharma,Ashvini Sharma,Network Administrator,2008-07-04,1976-10-25,46,single,Male,32.4519,55,Information Services,2016-07-04,NULL
+31,11,Kendall,Keil,Kendall Keil,Production Technician - WC50,2008-07-05,1985-12-28,37,married,Male,11.00,25,Production,2016-07-05,NULL
+32,11,Paula,Barreto de Mattos,Paula Barreto de Mattos,Human Resources Manager,2008-07-06,1975-09-11,47,married,Female,27.1394,47,Human Resources,2016-07-06,NULL
+33,11,Alejandro,McGuel,Alejandro McGuel,Production Technician - WC40,2008-07-06,1988-07-05,34,single,Male,15.00,46,Production,2016-07-06,NULL
+34,11,Garrett,Young,Garrett Young,Production Technician - WC30,2008-07-07,1984-03-25,38,single,Male,9.50,37,Production,2016-07-07,NULL
+35,11,Jian Shuo,Wang,Jian Shuo Wang,Production Technician - WC30,2008-07-07,1983-02-24,39,single,Male,9.50,38,Production,2016-07-07,NULL
+36,11,Susan,Eaton,Susan Eaton,Stocker,2008-07-07,1977-09-17,45,single,Female,9.00,68,Shipping and Receiving,2016-07-07,NULL
+37,11,Vamsi,Kuppa,Vamsi Kuppa,Shipping and Receiving Clerk,2008-07-07,1976-10-16,46,married,Male,9.50,67,Shipping and Receiving,2016-07-07,NULL
+38,11,Alice,Ciccu,Alice Ciccu,Production Technician - WC50,2008-07-07,1977-08-26,45,married,Female,11.00,67,Production,2016-07-07,NULL
+39,11,Simon,Rapier,Simon Rapier,Production Technician - WC60,2008-07-08,1989-12-15,33,single,Male,12.45,39,Production,2016-07-08,NULL
+40,11,Jinghao,Liu,Jinghao Liu,Production Supervisor - WC50,2008-07-08,1988-09-05,34,single,Male,25.00,58,Production,2016-07-08,NULL
+41,11,Michael,Hines,Michael Hines,Production Technician - WC20,2008-07-09,1989-12-15,33,single,Male,14.00,30,Production,2016-07-09,NULL
+42,11,Yvonne,McKay,Yvonne McKay,Production Technician - WC45,2008-07-09,1988-11-13,34,married,Female,10.00,59,Production,2016-07-09,NULL
+43,11,Peng,Wu,Peng Wu,Quality Assurance Supervisor,2008-07-09,1975-10-17,47,married,Male,21.6346,60,Quality Assurance,2016-07-09,NULL
+44,11,Jean,Trenary,Jean Trenary,Information Services Manager,2008-07-11,1975-07-13,47,single,Female,50.4808,52,Information Services,2016-07-11,NULL
+45,11,Russell,Hunter,Russell Hunter,Production Technician - WC50,2008-07-12,1972-06-25,50,married,Male,11.00,23,Production,2016-07-12,NULL
+46,11,A. Scott,Wright,A. Scott Wright,Master Scheduler,2008-07-12,1968-04-17,54,single,Male,23.5577,42,Production Control,2016-07-12,NULL
+47,11,Fred,Northup,Fred Northup,Production Technician - WC40,2008-07-12,1989-01-23,33,single,Male,15.00,43,Production,2016-07-12,NULL
+48,11,Sariya,Harnpadoungsataya,Sariya Harnpadoungsataya,Marketing Specialist,2008-07-12,1986-12-19,36,single,Male,14.4231,42,Marketing,2016-07-12,NULL
+49,11,Willis,Johnson,Willis Johnson,Recruiter,2008-07-13,1978-02-15,44,single,Male,18.2692,44,Human Resources,2016-07-13,NULL
+50,11,Jun,Cao,Jun Cao,Production Technician - WC50,2008-07-14,1979-02-03,43,single,Male,11.00,65,Production,2016-07-14,NULL
+51,11,Christian,Kleinerman,Christian Kleinerman,Maintenance Supervisor,2008-07-14,1975-08-18,47,married,Male,20.4327,66,Facilities and Maintenance,2016-07-14,NULL
+52,11,Susan,Metters,Susan Metters,Production Technician - WC30,2008-07-14,1982-10-31,40,single,Female,9.50,35,Production,2016-07-14,NULL
+53,11,Reuben,D'sa,Reuben D'sa,Production Supervisor - WC40,2008-07-15,1987-03-27,35,married,Male,25.00,56,Production,2016-07-15,NULL
+54,11,Kirk,Koenigsbauer,Kirk Koenigsbauer,Production Technician - WC45,2008-07-15,1984-09-06,38,single,Male,10.00,57,Production,2016-07-15,NULL
+55,11,David,Ortiz,David Ortiz,Production Technician - WC60,2008-07-15,1984-07-29,38,married,Male,12.45,36,Production,2016-07-15,NULL
+56,11,Tengiz,Kharatishvili,Tengiz Kharatishvili,Control Specialist,2008-07-16,1989-11-26,33,single,Male,16.8269,58,Document Control,2016-07-16,NULL
+57,11,Hanying,Feng,Hanying Feng,Production Technician - WC20,2008-07-16,1974-05-16,48,single,Male,14.00,27,Production,2016-07-16,NULL
+58,11,Kevin,Liu,Kevin Liu,Production Technician - WC40,2008-07-17,1985-07-25,37,single,Male,15.00,49,Production,2016-07-17,NULL
+59,11,Annik,Stahl,Annik Stahl,Production Technician - WC60,2008-07-17,1976-07-26,46,married,Male,12.45,28,Production,2016-07-17,NULL
+60,11,Suroor,Fatima,Suroor Fatima,Production Technician - WC50,2008-07-17,1977-09-25,45,single,Male,11.00,66,Production,2016-07-17,NULL
+61,11,Deborah,Poe,Deborah Poe,Accounts Receivable Specialist,2008-07-18,1975-10-05,47,married,Female,19.00,50,Finance,2016-07-18,NULL
+62,11,Jim,Scardelis,Jim Scardelis,Production Technician - WC50,2008-07-19,1986-04-08,36,married,Male,11.00,20,Production,2016-07-19,NULL
+63,11,Carole,Poland,Carole Poland,Production Technician - WC30,2008-07-19,1983-05-19,39,married,Female,9.50,41,Production,2016-07-19,NULL
+64,11,George,Li,George Li,Production Technician - WC30,2008-07-21,1976-11-14,46,married,Male,9.50,33,Production,2016-07-21,NULL
+65,11,Gary,Yukish,Gary Yukish,Production Technician - WC40,2008-07-22,1987-12-15,35,single,Male,15.00,54,Production,2016-07-22,NULL
+66,11,Cristian,Petculescu,Cristian Petculescu,Production Supervisor - WC10,2008-07-22,1983-11-10,39,married,Male,25.00,53,Production,2016-07-22,NULL
+67,11,Raymond,Sam,Raymond Sam,Production Technician - WC20,2008-07-23,1966-09-30,56,married,Male,14.00,25,Production,2016-07-23,NULL
+68,11,Janaina,Bueno,Janaina Bueno,Application Specialist,2008-07-23,1984-08-30,38,married,Female,27.4038,55,Information Services,2016-07-23,NULL
+69,11,Bob,Hohman,Bob Hohman,Production Technician - WC50,2008-07-24,1979-03-16,43,single,Male,11.00,26,Production,2016-07-24,NULL
+70,11,Shammi,Mohamed,Shammi Mohamed,Production Technician - WC40,2008-07-24,1980-05-04,42,married,Male,15.00,46,Production,2016-07-24,NULL
+71,11,Linda,Moschell,Linda Moschell,Production Technician - WC50,2008-07-25,1987-02-14,35,married,Female,11.00,68,Production,2016-07-25,NULL
+72,11,Mindy,Martin,Mindy Martin,Benefits Specialist,2008-07-25,1984-06-20,38,married,Female,16.5865,45,Human Resources,2016-07-25,NULL
+73,11,Wendy,Kahn,Wendy Kahn,Finance Manager,2008-07-25,1984-05-11,38,single,Female,43.2692,47,Finance,2016-07-25,NULL
+74,11,Kim,Ralls,Kim Ralls,Stocker,2008-07-26,1983-11-29,39,single,Female,9.00,69,Shipping and Receiving,2016-07-26,NULL
+75,11,Sandra,Reátegui Alayo,Sandra Reátegui Alayo,Production Technician - WC30,2008-07-26,1975-06-05,47,married,Female,9.50,38,Production,2016-07-26,NULL
+76,11,Kok-Ho,Loh,Kok-Ho Loh,Production Supervisor - WC50,2008-07-27,1979-11-27,43,single,Male,25.00,59,Production,2016-07-27,NULL
+77,11,Douglas,Hite,Douglas Hite,Production Technician - WC45,2008-07-27,1985-06-24,37,married,Male,10.00,60,Production,2016-07-27,NULL
+78,11,James,Kramer,James Kramer,Production Technician - WC60,2008-07-27,1984-02-23,38,married,Male,12.45,39,Production,2016-07-27,NULL
+79,11,Sean,Alexander,Sean Alexander,Quality Assurance Technician,2008-07-28,1975-10-05,47,single,Male,10.5769,61,Quality Assurance,2016-07-28,NULL
+80,11,Nitin,Mirchandani,Nitin Mirchandani,Production Technician - WC20,2008-07-28,1986-07-01,36,single,Male,14.00,30,Production,2016-07-28,NULL
+81,11,Diane,Margheim,Diane Margheim,Research and Development Engineer,2008-07-29,1986-01-03,36,single,Female,40.8654,51,Research and Development,2016-07-29,NULL
+82,11,Rebecca,Laszlo,Rebecca Laszlo,Production Technician - WC60,2008-07-29,1988-02-04,34,married,Female,12.45,31,Production,2016-07-29,NULL
+83,11,Rajesh,Patel,Rajesh Patel,Production Technician - WC40,2008-07-31,1977-05-04,45,married,Male,15.00,44,Production,2016-07-31,NULL
+84,11,Vidur,Luthra,Vidur Luthra,Recruiter,2008-08-01,1984-03-01,38,single,Male,18.2692,45,Human Resources,2016-08-01,NULL
+85,11,John,Evans,John Evans,Production Technician - WC50,2008-08-01,1977-12-29,45,single,Male,11.00,65,Production,2016-08-01,NULL
+86,11,Nancy,Anderson,Nancy Anderson,Production Technician - WC60,2008-08-02,1988-06-19,34,married,Female,12.45,37,Production,2016-08-02,NULL
+87,11,Pilar,Ackerman,Pilar Ackerman,Shipping and Receiving Supervisor,2008-08-02,1972-04-09,50,single,Male,19.2308,66,Shipping and Receiving,2016-08-02,NULL
+88,11,David,Yalovsky,David Yalovsky,Production Technician - WC30,2008-08-02,1981-03-03,41,single,Male,9.50,36,Production,2016-08-02,NULL
+89,11,David,Hamilton,David Hamilton,Production Supervisor - WC40,2008-08-03,1983-01-30,39,single,Male,25.00,56,Production,2016-08-03,NULL
+90,11,Laura,Steele,Laura Steele,Production Technician - WC45,2008-08-03,1980-07-25,42,single,Female,10.00,57,Production,2016-08-03,NULL
+91,11,Margie,Shoop,Margie Shoop,Production Technician - WC60,2008-08-04,1985-12-18,37,married,Female,12.45,29,Production,2016-08-04,NULL
+92,11,Zainal,Arifin,Zainal Arifin,Document Control Manager,2008-08-04,1975-08-30,47,married,Male,17.7885,58,Document Control,2016-08-04,NULL
+93,11,Lorraine,Nay,Lorraine Nay,Production Technician - WC40,2008-08-04,1988-06-26,34,married,Female,15.00,44,Production,2016-08-04,NULL
+94,11,Fadi,Fakhouri,Fadi Fakhouri,Production Technician - WC20,2008-08-04,1988-09-15,34,single,Male,14.00,28,Production,2016-08-04,NULL
+95,11,Ryan,Cornelsen,Ryan Cornelsen,Production Technician - WC40,2008-08-05,1972-01-12,50,married,Male,15.00,49,Production,2016-08-05,NULL
+96,11,Candy,Spoon,Candy Spoon,Accounts Receivable Specialist,2008-08-06,1975-09-23,47,single,Female,19.00,50,Finance,2016-08-06,NULL
+97,11,Nuan,Yu,Nuan Yu,Production Technician - WC50,2008-08-06,1978-10-27,44,single,Male,11.00,21,Production,2016-08-06,NULL
+98,11,William,Vong,William Vong,Scheduling Assistant,2008-08-07,1981-06-06,41,married,Male,16.00,42,Production Control,2016-08-07,2019-03-31
+99,11,William,Vong,William Vong,Scheduling Assistant,2008-08-07,1981-06-06,41,married,Male,16.00,42,Production Control,2019-04-01,NULL
+100,11,Bjorn,Rettig,Bjorn Rettig,Production Technician - WC30,2008-08-07,1989-06-06,33,single,Male,9.50,41,Production,2016-08-07,NULL
+101,11,Scott,Gode,Scott Gode,Production Technician - WC45,2008-08-08,1986-09-10,36,married,Male,10.00,63,Production,2016-08-08,NULL
+102,11,Michael,Rothkugel,Michael Rothkugel,Production Technician - WC40,2008-08-10,1990-08-04,32,single,Male,15.00,55,Production,2016-08-10,NULL
+103,11,Lane,Sacksteder,Lane Sacksteder,Production Technician - WC20,2008-08-11,1974-04-23,48,married,Male,14.00,25,Production,2016-08-11,NULL
+104,11,Pete,Male,Pete Male,Production Technician - WC50,2008-08-11,1976-09-03,46,single,Male,11.00,26,Production,2016-08-11,NULL
+105,11,Dan,Bacon,Dan Bacon,Application Specialist,2008-08-11,1981-01-24,41,married,Male,27.4038,56,Information Services,2016-08-11,NULL
+106,11,David,Barber,David Barber,Assistant to the Chief Financial Officer,2008-08-12,1964-01-20,58,single,Male,13.4615,48,Finance,2016-08-12,NULL
+107,11,Lolan,Song,Lolan Song,Production Technician - WC50,2008-08-12,1972-08-24,50,married,Male,11.00,23,Production,2016-08-12,NULL
+108,11,Paula,Nartker,Paula Nartker,Production Technician - WC40,2008-08-12,1986-09-10,36,married,Female,15.00,47,Production,2016-08-12,NULL
+109,11,Mary,Gibson,Mary Gibson,Marketing Specialist,2008-08-12,1962-04-13,60,married,Female,14.4231,43,Marketing,2016-08-12,NULL
+110,11,Mindaugas,Krapauskas,Mindaugas Krapauskas,Production Technician - WC50,2008-08-13,1977-12-05,45,married,Male,11.00,68,Production,2016-08-13,NULL
+111,11,Eric,Gubbels,Eric Gubbels,Production Supervisor - WC20,2008-08-14,1984-08-19,38,married,Male,25.00,40,Production,2016-08-14,NULL
+112,11,Ken,Sánchez,Ken Sánchez,Chief Executive Officer,2008-08-14,1968-08-29,54,single,Male,125.50,69,Executive,2016-08-14,NULL
+113,11,Jason,Watters,Jason Watters,Production Technician - WC30,2008-08-14,1988-07-07,34,single,Male,9.50,39,Production,2016-08-14,NULL
+114,11,Mark,Harrington,Mark Harrington,Quality Assurance Technician,2008-08-15,1985-11-28,37,single,Male,10.5769,61,Quality Assurance,2016-08-15,NULL
+115,11,Janeth,Esteves,Janeth Esteves,Production Technician - WC45,2008-08-15,1972-02-22,50,single,Female,10.00,60,Production,2016-08-15,NULL
+116,11,Marc,Ingle,Marc Ingle,Production Technician - WC30,2008-08-16,1986-05-24,36,married,Male,9.50,31,Production,2016-08-16,NULL
+117,11,Gigi,Matthew,Gigi Matthew,Research and Development Engineer,2008-08-16,1978-08-21,44,married,Female,40.8654,51,Research and Development,2016-08-16,NULL
+118,11,Paul,Singh,Paul Singh,Production Technician - WC20,2008-08-17,1990-06-04,32,married,Male,14.00,23,Production,2016-08-17,NULL
+119,11,Frank,Lee,Frank Lee,Production Technician - WC40,2008-08-17,1987-04-06,35,married,Male,15.00,48,Production,2016-08-17,NULL
+120,11,François,Ajenstat,François Ajenstat,Database Administrator,2008-08-17,1980-06-13,42,single,Male,38.4615,53,Information Services,2016-08-17,NULL
+121,11,Diane,Tibbott,Diane Tibbott,Production Technician - WC50,2008-08-18,1989-03-09,33,single,Female,11.00,24,Production,2016-08-18,NULL
+122,11,Jill,Williams,Jill Williams,Marketing Specialist,2008-08-18,1979-01-16,43,married,Female,14.4231,43,Marketing,2016-08-18,NULL
+123,11,Angela,Barbariol,Angela Barbariol,Production Technician - WC50,2008-08-20,1990-12-29,32,single,Female,11.00,66,Production,2016-08-20,NULL
+124,11,Matthias,Berndt,Matthias Berndt,Shipping and Receiving Clerk,2008-08-20,1973-06-11,49,married,Male,9.50,67,Shipping and Receiving,2016-08-20,NULL
+125,11,Bryan,Baker,Bryan Baker,Production Technician - WC60,2008-08-21,1973-03-27,49,single,Male,12.45,37,Production,2016-08-21,NULL
+126,11,Jeff,Hay,Jeff Hay,Production Supervisor - WC45,2008-08-21,1976-08-15,46,married,Male,25.00,57,Production,2016-08-21,NULL
+127,11,Eugene,Zabokritski,Eugene Zabokritski,Production Technician - WC30,2008-08-21,1987-02-12,35,single,Male,9.50,36,Production,2016-08-21,NULL
+128,11,Barbara,Decker,Barbara Decker,Production Technician - WC20,2008-08-22,1984-07-29,38,married,Female,14.00,28,Production,2016-08-22,NULL
+129,11,Chris,Preston,Chris Preston,Production Technician - WC45,2008-08-22,1988-07-16,34,married,Male,10.00,58,Production,2016-08-22,NULL
+130,11,Sean,Chai,Sean Chai,Document Control Assistant,2008-08-22,1986-10-10,36,single,Male,10.25,59,Document Control,2016-08-22,NULL
+131,11,Dan,Wilson,Dan Wilson,Database Administrator,2008-08-22,1975-08-06,47,married,Male,38.4615,53,Information Services,2016-08-22,NULL
+132,11,Mark,McArthur,Mark McArthur,Production Technician - WC60,2008-08-23,1979-04-25,43,single,Male,12.45,29,Production,2016-08-23,NULL
+133,11,Bryan,Walton,Bryan Walton,Accounts Receivable Specialist,2008-08-24,1984-04-20,38,single,Male,19.00,51,Finance,2016-08-24,NULL
+134,11,Houman,Pournasseh,Houman Pournasseh,Production Technician - WC50,2008-08-25,1971-03-30,51,married,Male,11.00,21,Production,2016-08-25,NULL
+135,11,Sairaj,Uddin,Sairaj Uddin,Scheduling Assistant,2008-08-26,1987-07-22,35,married,Male,16.00,43,Production Control,2016-08-26,NULL
+136,11,Michiko,Osada,Michiko Osada,Production Technician - WC30,2008-08-26,1982-01-25,40,single,Male,9.50,42,Production,2016-08-26,NULL
+137,11,Benjamin,Martin,Benjamin Martin,Production Technician - WC30,2008-08-27,1985-08-05,37,single,Male,9.50,34,Production,2016-08-27,NULL
+138,11,Cynthia,Randall,Cynthia Randall,Production Supervisor - WC30,2008-08-27,1981-03-18,41,single,Female,25.00,54,Production,2016-08-27,NULL
+139,11,Kathie,Flood,Kathie Flood,Production Technician - WC45,2008-08-27,1990-06-01,32,married,Female,10.00,63,Production,2016-08-27,NULL
+140,11,Britta,Simon,Britta Simon,Production Technician - WC60,2008-08-29,1989-04-28,33,married,Female,12.45,27,Production,2016-08-29,NULL
+141,11,Brian,Lloyd,Brian Lloyd,Production Technician - WC40,2008-08-29,1976-09-10,46,single,Male,15.00,47,Production,2016-08-29,NULL
+142,11,David,Liu,David Liu,Accounts Manager,2008-08-30,1983-02-05,39,married,Male,34.7356,48,Finance,2016-08-30,NULL
+143,11,Laura,Norman,Laura Norman,Chief Financial Officer,2008-08-31,1975-08-06,47,married,Female,60.0962,20,Executive,2016-08-31,2021-06-13
+144,11,Laura,Norman,Laura Norman,Chief Financial Officer,2008-08-31,1975-08-06,47,married,Female,60.0962,20,Executive,2021-06-13,NULL
+145,11,Michael,Patten,Michael Patten,Production Technician - WC50,2008-08-31,1973-12-01,49,single,Male,11.00,69,Production,2016-08-31,NULL
+146,11,Andy,Ruth,Andy Ruth,Production Technician - WC30,2008-08-31,1983-05-20,39,married,Male,9.50,39,Production,2016-08-31,NULL
+147,11,Yuhong,Li,Yuhong Li,Production Supervisor - WC20,2008-09-01,1976-11-04,46,married,Male,25.00,40,Production,2016-09-01,NULL
+148,11,Robert,Rounthwaite,Robert Rounthwaite,Production Technician - WC45,2008-09-02,1984-09-28,38,single,Male,10.00,61,Production,2016-09-02,NULL
+149,11,Andreas,Berglund,Andreas Berglund,Quality Assurance Technician,2008-09-02,1988-10-26,34,married,Male,10.5769,62,Quality Assurance,2016-09-02,NULL
+150,11,Reed,Koch,Reed Koch,Production Technician - WC30,2008-09-02,1988-08-08,34,married,Male,9.50,31,Production,2016-09-02,NULL
+151,11,Linda,Randall,Linda Randall,Production Technician - WC20,2008-09-03,1977-05-05,45,single,Female,14.00,26,Production,2016-09-03,NULL
+152,11,James,Hamilton,James Hamilton,Vice President of Production,2008-09-03,1988-02-04,34,single,Male,84.1346,52,Production,2016-09-03,NULL
+153,11,Ramesh,Meyyappan,Ramesh Meyyappan,Application Specialist,2008-09-03,1987-10-12,35,single,Male,27.4038,56,Information Services,2016-09-03,NULL
+154,11,Stephanie,Conroy,Stephanie Conroy,Network Manager,2008-09-04,1983-10-24,39,single,Female,39.6635,54,Information Services,2016-09-04,NULL
+155,11,Samantha,Smith,Samantha Smith,Production Technician - WC20,2008-09-04,1987-06-22,35,married,Female,14.00,23,Production,2016-09-04,NULL
+156,11,Tawana,Nusbaum,Tawana Nusbaum,Production Technician - WC40,2008-09-05,1989-06-10,33,single,Male,15.00,45,Production,2016-09-05,NULL
+157,11,Denise,Smith,Denise Smith,Production Technician - WC50,2008-09-05,1988-02-04,34,married,Female,11.00,24,Production,2016-09-05,NULL
+158,11,Hao,Chen,Hao Chen,Human Resources Administrative Assistant,2008-09-06,1976-11-15,46,single,Male,13.9423,46,Human Resources,2016-09-06,NULL
+159,11,Alex,Nayberg,Alex Nayberg,Production Technician - WC45,2008-09-08,1989-11-11,33,married,Male,10.00,58,Production,2016-09-08,NULL
+160,11,Eugene,Kogan,Eugene Kogan,Production Technician - WC60,2008-09-08,1975-09-10,47,single,Male,12.45,38,Production,2016-09-08,NULL
+161,11,Brandon,Heidepriem,Brandon Heidepriem,Production Technician - WC60,2008-09-08,1976-08-10,46,married,Male,12.45,31,Production,2016-09-08,NULL
+162,11,Dylan,Miller,Dylan Miller,Research and Development Manager,2008-09-08,1986-09-24,36,married,Male,50.4808,50,Research and Development,2016-09-08,NULL
+163,11,Shane,Kim,Shane Kim,Production Supervisor - WC45,2008-09-08,1989-12-22,33,single,Male,25.00,57,Production,2016-09-08,NULL
+164,11,John,Chen,John Chen,Production Technician - WC20,2008-09-09,1985-11-03,37,married,Male,14.00,29,Production,2016-09-09,NULL
+165,11,Karen,Berge,Karen Berge,Document Control Assistant,2008-09-09,1975-07-25,47,married,Female,10.25,59,Document Control,2016-09-09,NULL
+166,11,Jose,Lugo,Jose Lugo,Production Technician - WC60,2008-09-10,1984-02-29,38,married,Male,12.45,30,Production,2016-09-10,NULL
+167,11,Mandar,Samant,Mandar Samant,Production Technician - WC50,2008-09-10,1985-10-19,37,single,Male,11.00,20,Production,2016-09-10,NULL
+168,11,Mikael,Sandberg,Mikael Sandberg,Buyer,2008-09-10,1984-03-17,38,single,Male,18.2692,49,Purchasing,2016-09-10,NULL
+169,11,Sameer,Tejani,Sameer Tejani,Production Technician - WC50,2008-09-11,1978-01-24,44,married,Male,11.00,22,Production,2016-09-11,NULL
+170,11,Dragan,Tomic,Dragan Tomic,Accounts Payable Specialist,2008-09-11,1976-09-14,46,married,Male,19.00,51,Finance,2016-09-11,NULL
+171,11,Carol,Philips,Carol Philips,Production Technician - WC30,2008-09-12,1988-05-17,34,married,Female,9.50,42,Production,2016-09-12,NULL
+172,11,Rob,Caron,Rob Caron,Production Technician - WC40,2008-09-13,1973-03-04,49,single,Male,15.00,55,Production,2016-09-13,NULL
+173,11,Don,Hall,Don Hall,Production Technician - WC50,2008-09-13,1971-01-11,51,married,Male,11.00,64,Production,2016-09-13,NULL
+174,11,Alan,Brewer,Alan Brewer,Scheduling Assistant,2008-09-13,1983-10-28,39,married,Male,16.00,43,Production Control,2016-09-13,NULL
+175,11,David,Lawrence,David Lawrence,Production Technician - WC30,2008-09-14,1985-04-23,37,married,Male,9.50,34,Production,2016-09-14,NULL
+176,11,Baris,Cetinok,Baris Cetinok,Production Technician - WC40,2008-09-15,1990-05-07,32,single,Male,15.00,56,Production,2016-09-15,NULL
+177,11,Michael,Ray,Michael Ray,Production Supervisor - WC30,2008-09-15,1988-08-29,34,single,Male,25.00,55,Production,2016-09-15,NULL
+178,11,Steve,Masters,Steve Masters,Production Technician - WC60,2008-09-15,1990-11-04,32,single,Male,12.45,35,Production,2016-09-15,NULL
+179,11,Suchitra,Mohan,Suchitra Mohan,Production Technician - WC60,2008-09-16,1987-01-08,35,married,Female,12.45,27,Production,2016-09-16,NULL
+180,11,Karen,Berg,Karen Berg,Application Specialist,2008-09-16,1977-12-17,45,single,Female,27.4038,57,Information Services,2016-09-16,NULL
+181,11,Terrence,Earls,Terrence Earls,Production Technician - WC20,2008-09-16,1984-07-08,38,single,Male,14.00,26,Production,2016-09-16,NULL
+182,11,Barbara,Moreland,Barbara Moreland,Accountant,2008-09-18,1975-08-04,47,married,Female,26.4423,49,Finance,2016-09-18,NULL
+183,11,Chad,Niswonger,Chad Niswonger,Production Technician - WC50,2008-09-18,1990-03-04,32,married,Male,11.00,69,Production,2016-09-18,NULL
+184,11,Rostislav,Shabalin,Rostislav Shabalin,Production Technician - WC30,2008-09-19,1977-04-13,45,married,Male,9.50,40,Production,2016-09-19,NULL
+185,11,Belinda,Newman,Belinda Newman,Production Technician - WC45,2008-09-20,1974-10-15,48,single,Female,10.00,61,Production,2016-09-20,NULL
+186,11,Katie,McAskill-White,Katie McAskill-White,Production Supervisor - WC20,2008-09-20,1984-06-18,38,single,Female,25.00,41,Production,2016-09-20,NULL
+187,11,Russell,King,Russell King,Production Technician - WC30,2008-09-21,1981-09-11,41,married,Male,9.50,32,Production,2016-09-21,NULL
+188,11,Jack,Richins,Jack Richins,Production Supervisor - WC30,2008-09-21,1983-01-20,39,single,Male,25.00,54,Production,2016-09-21,NULL
+189,11,Andrew,Hill,Andrew Hill,Production Supervisor - WC10,2008-09-22,1988-04-06,34,single,Male,25.00,52,Production,2016-09-22,NULL
+190,11,Nicole,Holliday,Nicole Holliday,Production Technician - WC40,2008-09-22,1985-11-07,37,married,Female,15.00,53,Production,2016-09-22,NULL
+191,11,Frank,Miller,Frank Miller,Production Technician - WC50,2008-09-23,1971-02-21,51,single,Male,11.00,25,Production,2016-09-23,NULL
+192,11,Peter,Connelly,Peter Connelly,Network Administrator,2008-09-23,1979-12-27,43,single,Male,32.4519,54,Information Services,2016-09-23,NULL
+193,11,Anibal,Sousa,Anibal Sousa,Production Technician - WC20,2008-09-23,1974-04-05,48,single,Female,14.00,24,Production,2016-09-23,NULL
+194,11,Ken,Myer,Ken Myer,Production Technician - WC40,2008-09-24,1980-12-26,42,married,Male,15.00,45,Production,2016-09-24,NULL
+195,11,Grant,Culbertson,Grant Culbertson,Human Resources Administrative Assistant,2008-09-25,1975-11-15,47,single,Male,13.9423,46,Human Resources,2016-09-25,NULL
+196,11,Michael,Entin,Michael Entin,Production Technician - WC50,2008-09-25,1989-01-13,33,single,Male,11.00,67,Production,2016-09-25,NULL
+197,11,Lionel,Penuchot,Lionel Penuchot,Production Technician - WC45,2008-09-26,1987-10-13,35,single,Male,10.00,59,Production,2016-09-26,NULL
+198,11,Thomas,Michaels,Thomas Michaels,Production Technician - WC60,2008-09-26,1985-08-10,37,married,Male,12.45,38,Production,2016-09-26,NULL
+199,11,Jimmy,Bischoff,Jimmy Bischoff,Stocker,2008-09-26,1990-06-01,32,married,Male,9.00,68,Shipping and Receiving,2016-09-26,NULL
+200,11,Michael,Vanderhyde,Michael Vanderhyde,Production Technician - WC30,2008-09-26,1982-04-18,40,married,Male,9.50,37,Production,2016-09-26,NULL
+201,11,Lori,Kane,Lori Kane,Production Supervisor - WC45,2008-09-26,1980-02-16,42,single,Female,25.00,58,Production,2016-09-26,NULL
+202,11,Arvind,Rao,Arvind Rao,Buyer,2008-09-28,1974-03-21,48,married,Male,18.2692,50,Purchasing,2016-09-28,NULL
+203,11,Stefen,Hesse,Stefen Hesse,Production Technician - WC20,2008-09-28,1975-07-21,47,single,Male,14.00,29,Production,2016-09-28,NULL
+204,11,Hazem,Abolrous,Hazem Abolrous,Quality Assurance Manager,2008-09-28,1977-05-26,45,single,Male,28.8462,60,Quality Assurance,2016-09-28,NULL
+205,11,Janet,Sheperdigian,Janet Sheperdigian,Accounts Payable Specialist,2008-09-29,1978-10-07,44,married,Female,19.00,52,Finance,2016-09-29,NULL
+206,11,Elizabeth,Keyser,Elizabeth Keyser,Production Technician - WC50,2008-09-30,1989-08-25,33,married,Female,11.00,22,Production,2016-09-30,NULL
+207,11,Terry,Eminhizer,Terry Eminhizer,Marketing Specialist,2008-09-30,1985-09-04,37,married,Male,14.4231,42,Marketing,2016-09-30,NULL
+208,11,John,Frum,John Frum,Production Technician - WC30,2008-10-01,1981-10-22,41,single,Male,9.50,33,Production,2016-10-01,NULL
+209,11,Merav,Netz,Merav Netz,Production Technician - WC30,2008-10-01,1982-12-11,40,married,Female,9.50,43,Production,2016-10-01,NULL
+210,11,Brian,LaMee,Brian LaMee,Scheduling Assistant,2008-10-01,1984-03-11,38,married,Male,16.00,44,Production Control,2016-10-01,NULL
+211,11,Kitti,Lertpiriyasuwat,Kitti Lertpiriyasuwat,Production Technician - WC50,2008-10-02,1987-01-04,35,single,Female,11.00,64,Production,2016-10-02,NULL
+212,11,Jay,Adams,Jay Adams,Production Technician - WC60,2008-10-03,1975-09-11,47,single,Male,12.45,36,Production,2016-10-03,NULL
+213,11,Jan,Miksovsky,Jan Miksovsky,Production Technician - WC30,2008-10-03,1974-06-15,48,single,Male,9.50,35,Production,2016-10-03,NULL
+214,11,Brenda,Diaz,Brenda Diaz,Production Supervisor - WC40,2008-10-03,1982-09-28,40,married,Female,25.00,55,Production,2016-10-03,NULL
+215,11,Andrew,Cencini,Andrew Cencini,Production Technician - WC45,2008-10-04,1988-04-24,34,single,Male,10.00,56,Production,2016-10-04,NULL
+216,11,Chris,Norred,Chris Norred,Control Specialist,2008-10-04,1986-12-24,36,married,Male,16.8269,57,Document Control,2016-10-04,NULL
+217,11,Chris,Okelberry,Chris Okelberry,Production Technician - WC60,2008-10-05,1986-03-07,36,single,Male,12.45,28,Production,2016-10-05,NULL
+218,11,Shelley,Dyck,Shelley Dyck,Production Technician - WC20,2008-10-05,1986-07-08,36,single,Female,14.00,27,Production,2016-10-05,NULL
+219,11,Gabe,Mares,Gabe Mares,Production Technician - WC40,2008-10-06,1987-12-09,35,married,Male,15.00,48,Production,2016-10-06,NULL
+220,11,Mike,Seamans,Mike Seamans,Accountant,2008-10-06,1979-01-29,43,single,Male,26.4423,49,Finance,2016-10-06,NULL
+221,11,Michael,Raheem,Michael Raheem,Research and Development Manager,2008-12-01,1984-06-30,38,married,Male,42.4808,64,Research and Development,2016-12-01,NULL
+222,11,Gary,Altman,Gary Altman,Facilities Manager,2009-07-02,1970-09-18,52,married,Male,24.0385,63,Facilities and Maintenance,2017-07-02,NULL
+223,11,Charles,Fitzgerald,Charles Fitzgerald,Production Technician - WC60,2009-07-03,1971-04-02,51,single,Male,12.45,33,Production,2017-07-03,NULL
+224,11,Ebru,Ersan,Ebru Ersan,Production Technician - WC10,2009-07-06,1986-04-22,36,single,Male,13.45,66,Production,2017-07-06,NULL
+225,11,Sylvester,Valdez,Sylvester Valdez,Production Technician - WC20,2009-07-11,1970-06-12,52,married,Male,14.00,22,Production,2017-07-11,NULL
+226,11,Brian,Goldstein,Brian Goldstein,Production Technician - WC40,2009-07-11,1970-07-23,52,single,Male,15.00,51,Production,2017-07-11,NULL
+227,11,Linda,Meisner,Linda Meisner,Buyer,2009-07-17,1970-06-30,52,married,Female,18.2692,48,Purchasing,2017-07-17,NULL
+228,11,Betsy,Stadick,Betsy Stadick,Production Technician - WC10,2009-07-18,1942-07-17,80,single,Female,13.45,69,Production,2017-07-18,NULL
+229,11,Magnus,Hedlund,Magnus Hedlund,Facilities Administrative Assistant,2009-07-21,1971-03-27,51,married,Male,9.75,63,Facilities and Maintenance,2017-07-21,NULL
+230,11,Karan,Khanna,Karan Khanna,Production Technician - WC60,2009-07-22,1969-10-05,53,single,Male,12.45,34,Production,2017-07-22,NULL
+231,11,Mary,Baker,Mary Baker,Production Technician - WC10,2009-07-25,1986-04-19,36,married,Female,13.45,67,Production,2017-07-25,NULL
+232,11,Kevin,Homer,Kevin Homer,Production Technician - WC10,2009-07-25,1986-04-19,36,single,Male,13.45,65,Production,2017-07-25,NULL
+233,11,Mihail,Frintu,Mihail Frintu,Production Technician - WC40,2009-07-29,1970-10-07,52,single,Male,15.00,52,Production,2017-07-29,NULL
+234,11,Bonnie,Kearney,Bonnie Kearney,Production Technician - WC10,2009-08-01,1986-04-10,36,married,Female,13.45,64,Production,2017-08-01,NULL
+235,11,Fukiko,Ogisu,Fukiko Ogisu,Buyer,2009-08-04,1970-06-24,52,married,Male,18.2692,48,Purchasing,2017-08-04,NULL
+236,11,Hung-Fu,Ting,Hung-Fu Ting,Production Technician - WC20,2009-08-06,1971-05-23,51,single,Male,14.00,20,Production,2017-08-06,NULL
+237,11,Gordon,Hee,Gordon Hee,Buyer,2009-08-11,1942-06-29,80,married,Male,18.2692,46,Purchasing,2017-08-11,NULL
+238,11,Kimberly,Zimmerman,Kimberly Zimmerman,Production Technician - WC10,2009-08-12,1986-04-13,36,single,Female,13.45,67,Production,2017-08-12,NULL
+239,11,Kim,Abercrombie,Kim Abercrombie,Production Technician - WC60,2009-08-16,1942-07-14,80,married,Female,12.45,32,Production,2017-08-16,NULL
+240,11,Sandeep,Kaliyath,Sandeep Kaliyath,Production Technician - WC40,2009-08-17,1970-07-03,52,single,Male,15.00,52,Production,2017-08-17,NULL
+241,11,Prasanna,Samarawickrama,Prasanna Samarawickrama,Production Technician - WC20,2009-08-22,1952-11-28,70,married,Male,14.00,22,Production,2017-08-22,NULL
+242,11,Frank,Pellow,Frank Pellow,Buyer,2009-08-23,1951-12-11,71,married,Male,18.2692,49,Purchasing,2017-08-23,NULL
+243,11,Min,Su,Min Su,Production Technician - WC20,2009-08-24,1974-04-10,48,married,Male,14.00,20,Production,2017-08-24,NULL
+244,11,Eric,Brown,Eric Brown,Production Technician - WC40,2009-08-24,1942-07-08,80,married,Male,15.00,50,Production,2017-08-24,NULL
+245,11,Eric,Kurjan,Eric Kurjan,Buyer,2009-08-27,1972-04-17,50,single,Male,18.2692,47,Purchasing,2017-08-27,NULL
+246,11,Pat,Coleman,Pat Coleman,Janitor,2009-08-27,1970-07-03,52,single,Male,9.25,64,Facilities and Maintenance,2017-08-27,NULL
+247,11,Maciej,Dusza,Maciej Dusza,Production Technician - WC60,2009-08-29,1954-08-30,68,single,Male,12.45,35,Production,2017-08-29,NULL
+248,11,Erin,Hagens,Erin Hagens,Buyer,2009-08-31,1970-08-04,52,single,Female,18.2692,46,Purchasing,2017-08-31,NULL
+249,11,Patrick,Wedge,Patrick Wedge,Production Technician - WC10,2009-09-01,1986-04-10,36,single,Male,13.45,68,Production,2017-09-01,NULL
+250,11,Frank,Martinez,Frank Martinez,Production Technician - WC40,2009-09-05,1951-10-01,71,married,Male,15.00,53,Production,2017-09-05,NULL
+251,11,Ed,Dudenhoefer,Ed Dudenhoefer,Production Technician - WC60,2009-09-05,1971-04-11,51,single,Male,12.45,32,Production,2017-09-05,NULL
+252,11,Christopher,Hill,Christopher Hill,Production Technician - WC10,2009-09-08,1986-05-01,36,married,Male,13.45,65,Production,2017-09-08,NULL
+253,11,Patrick,Cook,Patrick Cook,Production Technician - WC40,2009-09-12,1973-07-23,49,married,Male,15.00,50,Production,2017-09-12,NULL
+254,11,Krishna,Sunkammurali,Krishna Sunkammurali,Production Technician - WC20,2009-09-13,1971-04-05,51,single,Male,14.00,21,Production,2017-09-13,NULL
+255,11,Lori,Penor,Lori Penor,Janitor,2009-09-16,1970-02-28,52,married,Female,9.25,65,Facilities and Maintenance,2017-09-16,NULL
+256,11,Danielle,Tiedt,Danielle Tiedt,Production Technician - WC10,2009-09-20,1986-04-07,36,single,Female,13.45,68,Production,2017-09-20,NULL
+257,11,Sootha,Charncherngkha,Sootha Charncherngkha,Quality Assurance Technician,2009-09-23,1942-07-05,80,married,Male,10.5769,62,Quality Assurance,2017-09-23,NULL
+258,11,Michael,Zwilling,Michael Zwilling,Production Technician - WC60,2009-09-23,1973-04-05,49,single,Male,12.45,33,Production,2017-09-23,NULL
+259,11,Randy,Reeves,Randy Reeves,Production Technician - WC60,2009-09-23,1969-11-26,53,married,Male,12.45,34,Production,2017-09-23,NULL
+260,11,John,Kane,John Kane,Production Technician - WC10,2009-09-27,1986-04-28,36,single,Male,13.45,66,Production,2017-09-27,NULL
+261,11,Jack,Creasey,Jack Creasey,Production Technician - WC40,2009-10-01,1973-03-29,49,single,Male,15.00,51,Production,2017-10-01,NULL
+262,11,Olinda,Turner,Olinda Turner,Production Technician - WC20,2009-10-02,1969-11-02,53,single,Female,14.00,21,Production,2017-10-02,NULL
+263,11,Stuart,Macrae,Stuart Macrae,Janitor,2009-10-03,1971-07-17,51,married,Male,9.25,64,Facilities and Maintenance,2017-10-03,NULL
+264,11,Jo,Berry,Jo Berry,Janitor,2009-10-05,1953-11-22,69,married,Female,9.25,65,Facilities and Maintenance,2017-10-05,NULL
+265,11,Ben,Miller,Ben Miller,Buyer,2009-10-07,1973-01-01,49,married,Male,18.2692,47,Purchasing,2017-10-07,NULL
+266,11,Tom,Vande Velde,Tom Vande Velde,Production Technician - WC10,2009-10-08,1986-05-01,36,married,Male,13.45,69,Production,2017-10-08,NULL
+267,11,Ovidiu,Cracium,Ovidiu Cracium,Senior Tool Designer,2010-07-05,1977-08-17,45,single,Male,28.8462,23,Tool Design,2018-07-05,NULL
+268,11,Annette,Hill,Annette Hill,Purchasing Assistant,2010-07-06,1977-08-29,45,married,Female,12.75,45,Purchasing,2018-07-06,NULL
+269,11,Janice,Galvin,Janice Galvin,Tool Designer,2010-07-23,1988-12-26,34,married,Female,25.00,24,Tool Design,2018-07-23,NULL
+270,11,Reinout,Hillmann,Reinout Hillmann,Purchasing Assistant,2010-07-25,1977-08-17,45,married,Male,12.75,45,Purchasing,2018-07-25,NULL
+271,11,Michael,Sullivan,Michael Sullivan,Senior Design Engineer,2010-07-30,1979-01-14,43,single,Male,36.0577,21,Engineering,2018-07-30,NULL
+272,11,Stephen,Jiang,Stephen Jiang,North American Sales Manager,2010-08-04,1951-05-17,71,married,Male,48.101,27,Sales,2018-08-04,NULL
+273,11,Wanida,Benshoof,Wanida Benshoof,Marketing Assistant,2010-08-07,1974-10-15,48,married,Female,13.4615,40,Marketing,2018-08-07,NULL
+274,11,Sharon,Salavaria,Sharon Salavaria,Design Engineer,2010-08-18,1960-11-30,62,married,Female,32.6923,22,Engineering,2018-08-18,NULL
+275,11,John,Wood,John Wood,Marketing Specialist,2010-09-07,1977-10-04,45,single,Male,14.4231,44,Marketing,2018-09-07,NULL
+276,11,Mary,Dempsey,Mary Dempsey,Marketing Assistant,2010-09-14,1977-08-29,45,single,Female,13.4615,41,Marketing,2018-09-14,NULL
+277,11,Brian,Welcker,Brian Welcker,Vice President of Sales,2010-09-15,1977-01-04,45,single,Male,72.1154,25,Sales,2018-09-15,NULL
+278,11,Sheela,Word,Sheela Word,Purchasing Manager,2010-09-25,1977-09-10,45,single,Female,30.00,44,Purchasing,2018-09-25,2019-02-27
+279,11,Sheela,Word,Sheela Word,Purchasing Manager,2010-09-25,1977-09-10,45,single,Female,30.00,44,Purchasing,2019-02-28,2020-02-12
+280,11,Sheela,Word,Sheela Word,Purchasing Manager,2010-09-25,1977-09-10,45,single,Female,30.00,44,Purchasing,2020-02-13,NULL
+281,2,Michael,Blythe,Michael Blythe,Sales Representative,2010-12-29,1968-07-25,54,single,Male,23.0769,39,Sales,2018-12-29,NULL
+282,4,Linda,Mitchell,Linda Mitchell,Sales Representative,2010-12-29,1979-09-27,43,married,Female,23.0769,33,Sales,2018-12-29,NULL
+283,3,Jillian,Carson,Jillian Carson,Sales Representative,2010-12-29,1962-03-29,60,single,Female,23.0769,32,Sales,2018-12-29,NULL
+284,6,Garrett,Vargas,Garrett Vargas,Sales Representative,2010-12-29,1974-09-04,48,married,Male,23.0769,36,Sales,2018-12-29,NULL
+285,5,Tsvi,Reiter,Tsvi Reiter,Sales Representative,2010-12-29,1973-08-18,49,married,Male,23.0769,34,Sales,2018-12-29,NULL
+286,1,Pamela,Ansman-Wolfe,Pamela Ansman-Wolfe,Sales Representative,2010-12-29,1974-07-06,48,single,Female,23.0769,31,Sales,2018-12-29,NULL
+287,4,Shu,Ito,Shu Ito,Sales Representative,2010-12-29,1943-10-08,79,married,Male,23.0769,33,Sales,2018-12-29,NULL
+288,6,José,Saraiva,José Saraiva,Sales Representative,2010-12-29,1939-07-11,83,married,Male,23.0769,35,Sales,2018-12-29,NULL
+289,1,David,Campbell,David Campbell,Sales Representative,2010-12-29,1973-09-11,49,single,Male,23.0769,31,Sales,2018-12-29,NULL
+290,11,Amy,Alberts,Amy Alberts,European Sales Manager,2011-11-15,1957-04-20,65,married,Female,48.101,30,Sales,2019-11-15,NULL
+291,10,Jae,Pak,Jae Pak,Sales Representative,2011-12-29,1967-10-16,55,married,Female,23.0769,38,Sales,2019-12-29,NULL
+292,7,Ranjit,Varkey Chudukatil,Ranjit Varkey Chudukatil,Sales Representative,2011-12-29,1975-04-30,47,single,Male,23.0769,37,Sales,2019-12-29,NULL
+293,1,Tete,Mensa-Annan,Tete Mensa-Annan,Sales Representative,2012-04-30,1977-08-05,45,married,Male,23.0769,39,Sales,2020-04-30,NULL
+294,11,Syed,Abbas,Syed Abbas,Pacific Sales Manager,2012-10-12,1974-08-11,48,married,Male,48.101,30,Sales,2020-10-12,NULL
+295,8,Rachel,Valdez,Rachel Valdez,Sales Representative,2012-12-28,1975-02-06,47,single,Female,23.0769,37,Sales,2020-12-28,NULL
+296,9,Lynn,Tsoflias,Lynn Tsoflias,Sales Representative,2012-12-28,1970-10-16,52,single,Female,23.0769,38,Sales,2020-12-28,NULL
